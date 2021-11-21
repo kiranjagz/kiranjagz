@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 Sometimes I do stuff..
 
+![Kiran Jagathlal GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranjagz&show_icons=true&theme=vue-dark)
+
