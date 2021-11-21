@@ -21,3 +21,6 @@ Sometimes I do stuff..
 
 ![Kiran Jagathlal GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranjagz&show_icons=true&theme=vue-dark)
 
+Watch my contribuition graph get eaten by the snake 🐍
+![snake gif](https://github.com/kiranjagz/kiranjagz/blob/output/github-contribution-grid-snake.svg)
+
