@@ -17,5 +17,11 @@ Here are some ideas to get you started:
 
 Sometimes I do stuff..
 
+<strong>🌐 Gitlab: [kiranjagz](https://gitlab.com/kiranjagz)</strong>
+
+<strong>💬 Contact me: kiranjagz@gmail.com</strong>
+
+<strong>📝 My site: https://galacticfisherman.co.za/</strong>
+
 ![Kiran Jagathlal GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranjagz&show_icons=true&theme=vue-dark)
 
