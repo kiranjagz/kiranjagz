@@ -23,7 +23,7 @@ and other times I wish could snap half the universe's code away.
 
 <strong>🌐 Gitlab:  [kiranjagz](https://gitlab.com/kiranjagz)</strong>
 
-<strong>🌐 Website: [github.io](https://kiranjagz.github.io/)</strong>
+<strong>:link: Website: [github.io](https://kiranjagz.github.io/)</strong>
 
 
 
