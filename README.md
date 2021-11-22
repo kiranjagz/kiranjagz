@@ -19,7 +19,7 @@ Sometimes I do stuff..
 
 <strong>🌐 Gitlab: [kiranjagz](https://gitlab.com/kiranjagz)</strong>
 
-![Alt text](thanos_dance.gif)
+![Alt text](thanos_dance_1.gif)
 
 
 
