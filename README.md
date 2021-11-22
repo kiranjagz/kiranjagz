@@ -19,6 +19,7 @@ Sometimes I do stuff..
 
 <strong>🌐 Gitlab: [kiranjagz](https://gitlab.com/kiranjagz)</strong>
 
-![Kiran Jagathlal GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranjagz&show_icons=true&theme=vue-dark)
+![Alt text](thanos_dance.gif)
+
 
 
