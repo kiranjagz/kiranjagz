@@ -21,7 +21,9 @@ and other times I wish could snap half the universe's code away.
 
 ![Alt text](thanos_dance_2.gif)
 
-<strong>🌐 Gitlab: [kiranjagz](https://gitlab.com/kiranjagz)</strong>
+<strong>🌐 Gitlab:  [kiranjagz](https://gitlab.com/kiranjagz)</strong>
+
+<strong>🌐 Website: [github.io](https://kiranjagz.github.io/)</strong>
 
 
 
