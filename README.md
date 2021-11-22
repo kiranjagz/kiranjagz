@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 Sometimes I do stuff..
 
-<strong>🌐 Gitlab: [kiranjagz](https://gitlab.com/kiranjagz)</strong>
+and other times wish I could snap half the universe's code away.
 
-![Alt text](thanos_dance_1.gif)
+![Alt text](thanos_dance_2.gif)
+
+<strong>🌐 Gitlab: [kiranjagz](https://gitlab.com/kiranjagz)</strong>
 
 
 
