@@ -17,13 +17,10 @@ Here are some ideas to get you started:
 
 Sometimes I do stuff..
 
-and other times I wish could snap half the universe's code away.
+and other times I wishes I could snap half of the universe's code away.
 
 ![Alt text](thanos_dance_2.gif)
 
 <strong>🌐 Gitlab:  [kiranjagz](https://gitlab.com/kiranjagz)</strong>
 
 <strong>:link: Website: [github.io](https://kiranjagz.github.io/)</strong>
-
-
-
