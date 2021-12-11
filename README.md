@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sometimes I do stuff..
+Sometimes I do stuff.
 
-and other times I wish I could snap half of the universe's code away.
+and other times uhm yeah...
 
 ![Alt text](thanos_dance_2.gif)
 
