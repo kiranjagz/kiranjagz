@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Sometimes I do stuff.
 
-and other times uhm yeah...
+...
 
 ![Alt text](thanos_dance_2.gif)
 
