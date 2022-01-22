@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sometimes I do stuff.
-
-...
+<strong><i>If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization.</i></strong>
 
 ![Alt text](thanos_dance_2.gif)
 
