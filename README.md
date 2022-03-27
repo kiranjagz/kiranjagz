@@ -25,4 +25,4 @@ Sometimes I do stuff.
 
 <strong>🌐 Website: [github.io](https://kiranjagz.github.io/)</strong>
 
-<strong>:whale: Website: [dockerhub](https://hub.docker.com/u/kiranjagz)</strong>
+<strong>:whale: DockerHub: [kiranjagz](https://hub.docker.com/u/kiranjagz)</strong>
