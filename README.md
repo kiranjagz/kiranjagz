@@ -21,8 +21,8 @@ Sometimes I do stuff.
 
 ![Alt text](thanos_dance_2.gif)
 
-<strong>🌐 Gitlab:  [kiranjagz](https://gitlab.com/kiranjagz)</strong>
+<strong>:building_construction: Gitlab:  [kiranjagz](https://gitlab.com/kiranjagz)</strong>
 
-<strong>:link: Website: [github.io](https://kiranjagz.github.io/)</strong>
+<strong>🌐 Website: [github.io](https://kiranjagz.github.io/)</strong>
 
 <strong>:whale: Website: [dockerhub](https://hub.docker.com/u/kiranjagz)</strong>
