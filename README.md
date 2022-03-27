@@ -1,4 +1,4 @@
-### Yow there 👋 :guardsman: :japanese_goblin:
+### Yow there 👋 :japanese_goblin:
 
 <!--
 **kiranjagz/kiranjagz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
