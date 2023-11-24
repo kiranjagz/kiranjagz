@@ -19,7 +19,7 @@ Sometimes I do stuff.
 
 <strong><i>"If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization." - Gerald Weinberg</i></strong>
 
-![Alt text](thanos_dance_2.gif)
+[![Alt text](thanos_dance_2.gif)](url)
 
 <strong>:building_construction: Gitlab:  [kiranjagz](https://gitlab.com/kiranjagz)</strong>
 
